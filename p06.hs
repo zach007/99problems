@@ -1,5 +1,4 @@
-module Test where
+module Ispalindrome where
 
-isP :: [a] -> Bool
-isP [] = error "empty"
-
+isP :: Eq a => [a] -> Bool
+isP list = (==) list (reverse list)
