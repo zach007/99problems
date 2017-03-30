@@ -12,7 +12,6 @@ encodeModified (x:xs) = let (first, rest) = span (==x) xs
 
 --this function is support [a] ,not just Char ,by using type parameters!
 
-
 data Modified a = Multiple Int a | Single a  deriving (Show)
 
 encodeModified :: Eq a => [a] -> [Modified a]
