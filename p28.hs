@@ -1,0 +1,2 @@
+--understand p26.hs before this one
+--
