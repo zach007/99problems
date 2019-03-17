@@ -1,1 +1,1 @@
-# 99problemsthis is a project of 99problems using haskell
+# 99problems
