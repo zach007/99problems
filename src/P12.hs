@@ -1,4 +1,4 @@
-module DecodeModified where
+module P12 where
 
 data Modified a = Multi Int a | Single a
 

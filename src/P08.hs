@@ -1,4 +1,4 @@
-module Compress where
+module P08 where
 
 mycompress :: Eq a => [a] -> [a]
 mycompress [] = []

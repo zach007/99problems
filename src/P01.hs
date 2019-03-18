@@ -1,4 +1,4 @@
-module Mylast where
+module P01 where
 
 mylast :: [a] -> a
 mylast [] = error "empty list"

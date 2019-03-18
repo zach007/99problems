@@ -1,4 +1,4 @@
-module Duplicate where
+module P14 where
 
 duplicate :: [a] -> [a]
 duplicate [] = []

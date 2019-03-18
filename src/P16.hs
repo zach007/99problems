@@ -1,4 +1,4 @@
-module DropNth where
+module P16 where
 
 dropNth :: [a] -> Int -> [a]
 dropNth list 0 = list

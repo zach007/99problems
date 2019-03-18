@@ -1,4 +1,4 @@
-module Encode where
+module P10 where
 
 encode :: Eq a => [a] -> [(Int,a)]
 encode [] = []

@@ -1,4 +1,4 @@
-module RemoveNth where
+module P20 where
 
 removeNth :: Int -> [a] -> (a,[a])
 removeNth n xs = (xs!!(n-1),helper (n-1) xs)

@@ -1,4 +1,4 @@
-module  Permutations where
+module P25 where
 
 import System.Random
 import Data.List

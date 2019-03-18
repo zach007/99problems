@@ -1,4 +1,4 @@
-module RandomNum where
+module P23 where
 
 import System.Random
 

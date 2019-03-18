@@ -1,4 +1,4 @@
-module Prime where
+module P31 where
 
 isPrime :: Int -> Bool
 isPrime 1 = False

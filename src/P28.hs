@@ -1,4 +1,4 @@
-module Lsort where
+module P28 where
 
 import Data.List
 import Data.Ord(comparing)

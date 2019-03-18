@@ -1,4 +1,4 @@
-module EncodeModified where
+module P11 where
 {--
 data Modified  = Multiple Int Char
                | Single Char

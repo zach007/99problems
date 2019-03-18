@@ -1,4 +1,4 @@
-module EncodeDirect where
+module P13 where
 
 data Modified a = Multi Int a | Single a deriving (Eq,Show)
 direct :: [a] -> [Modified a]

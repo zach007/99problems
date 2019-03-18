@@ -1,4 +1,4 @@
-module FindEle where
+module P03 where
 findEle :: [a] -> Int -> a
 findEle xs i 
   | i == length xs = last xs

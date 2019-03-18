@@ -1,4 +1,4 @@
-module Test where
+module P05 where
 
 myReverse :: [a] -> [a]
 myReverse [] = []

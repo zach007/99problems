@@ -1,4 +1,4 @@
-module LastButOne where
+module P02 where
 
 lastButOne :: [a] -> a
 lastButOne [] = error "empty list"

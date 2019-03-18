@@ -1,4 +1,4 @@
-module Test where
+module P04 where
 
 mylength :: [a] ->  Int
 mylength [] = 0

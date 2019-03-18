@@ -1,4 +1,4 @@
-module Combinations where
+module P26 where
 import Data.List (tails)
 
   {-
