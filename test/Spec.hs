@@ -1,2 +1,3 @@
-main :: IO()
-main = putStrLn "test case has not implement"
+-- file test/Spec.hs 
+{-# OPTIONS_GHC -F -pgmF hspec-discover #-}
+
